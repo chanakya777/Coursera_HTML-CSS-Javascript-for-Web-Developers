@@ -1,0 +1,17 @@
+.row{
+	color:black;
+	text-align: center;
+	text-decoration-color: orange;
+	font-weight: 700;
+	border-color: black;
+	border-style: solid;
+}
+
+.col-xs-4:hover{
+	background-color: red;
+	cursor: crosshair;
+}
+
+.col-xs-4{
+	border: 2px solid black;
+}
